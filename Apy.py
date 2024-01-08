@@ -99,5 +99,3 @@ while q:
             q.append(cur - 1)
 
 print(dist[y])
-
-
