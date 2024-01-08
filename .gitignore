@@ -1,1 +1,3 @@
 *.exe
+/A.cpp
+/combined.cpp
