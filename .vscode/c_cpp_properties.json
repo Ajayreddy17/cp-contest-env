@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/thati/Cp/library-cpp/**"
+            ],
+            "compilerArgs": [
+                "-I${Env:LIB_CPP}",
+                "-std=gnu++20",
+                "-Wall",
+                "-Wextra",
+                "-g",
+                "-w",
+                "-O2"
+            ],
+            "defines": [
+                "LOCAL"
+            ],
+            "compilerPath": "C:\\Program Files (x86)\\mingw64\\bin\\gcc.exe",
+            "intelliSenseMode": "windows-gcc-x64",
+            "cppStandard": "c++20",
+            "cStandard": "c23"
+        }
+    ],
+    "version": 4
+}
